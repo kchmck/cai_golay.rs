@@ -1,0 +1,13 @@
+[package]
+name = "cai_golay"
+version = "0.1.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+description = "Encoding and decoding of Golay codes"
+license = "MIT"
+documentation = "https://docs.rs/cai_golay"
+repository = "https://github.com/kchmck/cai_golay.rs"
+keywords = ["ecc", "fec", "golay", "standard", "extended"]
+
+[dependencies]
+
+binfield_matrix = "0.1.0"
