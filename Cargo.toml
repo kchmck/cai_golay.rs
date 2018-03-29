@@ -10,4 +10,4 @@ keywords = ["ecc", "fec", "golay", "standard", "extended"]
 
 [dependencies]
 
-binfield_matrix = "0.1.0"
+binfield_matrix = "0.2.0"
